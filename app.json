@@ -1,5 +1,12 @@
 {
   "expo": {
-    "sdkVersion": "22.0.0"
+    "name": "mango",
+    "icon": "./src/icon.jpg",
+    "version": "1.0.0",
+    "slug": "https://exp.host/@woleon/helloworldapp",
+    "sdkVersion": "22.0.0",
+    "ios": {
+      "bundleIdentifier": "com.mango.marvin"
+    }
   }
 }

@@ -115,7 +115,7 @@ export default class HelloWorldApp extends React.Component {
       this.scrollToBottom()
     })
 
-    fetch('http://172.26.98.238/speak_to_robot', {
+    fetch('http://love-mango.com/speak_to_robot', {
       method: "POST",
       headers: {
         'Accept': 'application/json',
